@@ -1,0 +1,5 @@
+watchedProject:
+  name: git-test
+
+authorizedUsers:
+  - shiqi
